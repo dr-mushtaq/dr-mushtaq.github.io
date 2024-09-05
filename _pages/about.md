@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Who i am "
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Mushtaq Hussain**, regular faculty at the [Virtual University of Pakistan](https://www.vu.edu.pk>). I completed a Master of Information Technology (MIT) degree from [University of Science and Technolog] (https://www.kust.edu.pk) Prior to pursuing my PhD, I earned a Master of Science in Information Technology (MSIT) from the [Agricultural University of Peshawar](https://www.aup.edu.pk)  I then completed my   PhD at [Shanghai University in China](https://apply.shu.edu.cn) under the supervision of Professor Wu Zhang."
+I am **Mushtaq Hussain**, regular faculty at the [Virtual University of Pakistan](https://www.vu.edu.pk>). I completed a Master of Information Technology (MIT) degree from [University of Science and Technolog of Khoat(https://www.kust.edu.pk) Prior to pursuing my PhD, I earned a Master of Science in Information Technology (MSIT) from the [Agricultural University of Peshawar](https://www.aup.edu.pk)  I then completed my   PhD at [Shanghai University in China](https://apply.shu.edu.cn) under the supervision of Professor Wu Zhang."
 
 A data-driven personal website
 ======
