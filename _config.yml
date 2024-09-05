@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Dr-Mushtaq's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dr.Mushtaq Hussain"
 description              : &description "personal description"
 url                      : https://dr-mushtaq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
