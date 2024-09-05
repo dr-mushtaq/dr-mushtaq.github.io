@@ -1,5 +1,49 @@
 # Academic Pages
 
+<div class="section">
+    <h2 class="section-title"><i class="fas fa-flask icon"></i> Research Projects</h2>
+    <div class="paper">
+        <h3>Machine Learning-Driven Approach for Waterborne Disease Warning</h3>
+        <p>Developed an early warning system using machine learning to mitigate health-related outbreaks like waterborne diseases in Pakistan.</p>
+        <p><strong>HEC SRGP Project Ref. No.:</strong> 162/IPFP-II(Batch-I)/SRGP/NAHE/HEC/2020/183 Islamabad</p>
+        <p><strong>Date:</strong> Jan 23, 2021</p>
+        <p><strong>Funding:</strong> PKR 1,000,000/-</p>
+        <p><strong>URL:</strong> <a href="#">Link</a></p>
+    </div>
+    <div class="paper">
+        <h3>Building Education Chatbot for Decreasing Instructor Workload in E-learning System</h3>
+        <p>Implemented a chatbot to address student inquiries and decrease instructor workload in e-learning environments.</p>
+    </div>
+    <div class="paper">
+        <h3>Building Instructor Dashboard for Decreasing Instructor Workload in E-learning System</h3>
+        <p>Created an instructor dashboard to streamline course management tasks and reduce instructor workload.</p>
+    </div>
+</div>
+<div class="section">
+    <h2 class="section-title"><i class="fas fa-graduation-cap icon"></i> PhD Thesis</h2>
+    <div class="paper">
+        <h3>Mining web-based learning system data to detect different patterns of student behavior during course completion</h3>
+        <p><strong>Supervisors:</strong> Prof. Wu Zhang, Dr. Wenhao Zhu (Shanghai University, China)</p>
+        <p><strong>Date:</strong> March 18, 2019</p>
+    </div>
+</div>
+
+<div class="section">
+    <h2 class="section-title"><i class="fas fa-file-alt icon"></i> Journal Articles</h2>
+    <div class="paper">
+        <h3>1-Using machine learning to predict student difficulties from learning session data</h3>
+        <p>Mushtaq Hussain, Wenhao Zhu, Wu Zhang, S.Raza Abidi and Sadaqat Ali</p>
+        <p>Artificial Intelligence Review ,52(1), 341-407</p>
+        <p><strong>ISSN No.:</strong> 1573-7462</p>
+        <p><strong>Citations:</strong> 174</p>
+        <p><strong>Date:</strong> February 2018 </p>
+
+        <h3>2- Student engagement prediction in an e-learning system and their impact on student course assessment scores</h3>
+        <p>Mushtaq Hussain, Wenhao Zhu, Wu Zhang and Syed Muhammad Raza Abidi</p>
+        <p>Computational Intelligence and Neuroscience ,2018 (6), 1-21</p>
+        <p><strong>ISSN No.:</strong> 1687-5273</
+
+
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 Academic Pages is a Github Pages template for academic websites.
