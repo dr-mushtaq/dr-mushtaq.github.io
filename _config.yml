@@ -24,7 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Dr.Mushtaq Hussain"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor
+@ VU Pakistan
+
+Research focus:
+Deep Learning|Machine Learning|
+NLP|Computer Vision"
   location         : "Islamabad,Pakistan"
   employer         : "Virtual University"
   uri              : # URL
