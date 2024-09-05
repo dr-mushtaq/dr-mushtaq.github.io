@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Dr-Mushtaq's Homepage"
 title_separator          : "-"
-name                     : &name "Dr.Mushtaq Hussain"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://dr-mushtaq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "dr-mushtaq/portfolio"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr.Mushtaq Hussain"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Islamabad,Pakistan"
+  employer         : "Virtual University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mushtaqmsit@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
