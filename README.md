@@ -1,1 +1,3 @@
 # Dr-Mushtaq.github.io
+# **Home**
+I am a seasoned data science expert proficient in Python, MATLAB, RapidMiner, and data analysis. Boasting over 13 research publications in SCI category journals and significant citations, including an H-index of 6, I currently serve as an Assistant Professor at the Virtual University of Pakistan, also holding HEC Approved Supervisor status. My academic journey includes a Ph.D. in Computer Science from Shanghai University, China, where my research focused on predicting student difficulty and engagement in e-learning systems using machine learning. Prior to this, I obtained MIT and MS degrees from Kohat University and Agricultural University of Peshawar,
