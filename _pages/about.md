@@ -13,14 +13,9 @@ I am **Mushtaq Hussain**, regular faculty at the [Virtual University of Pakistan
 ======
 My research focuses on the areas of **Machine Learning**, **Deep Learning**, **Computer Vision and NLP**.  In particular, my prior research endeavors have revolved around predicting student difficulty and engagement levels within e-learning environments, employing a range of machine learning techniques to uncover insights and improve educational outcomes My current research interests include, analyze student specialization selection patterns using machine learning and deep learning techniques
 
-Getting started
+💡I am Searching!
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Currently, I am looking for Postdoc and Industrial Research Collaboration in Deep learning and Machine learning.
 
 Site-wide configuration
 ------
