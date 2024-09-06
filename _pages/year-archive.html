@@ -6,14 +6,160 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teaching</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <style>
+        .table-column-1 {
+            width: 15%;
+        }
+        .table-column-2 {
+            width: 15%;
+        }
+        .table-column-3 {
+            width: 15%;
+        }
+        .table-column-4 {
+          width: 50%;
+      }
+     .table-striped > tbody > tr:nth-child(even) {
+            background-color: #eeebf5;
+      }
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+      h2 {       
+           text-align: center;
+        color: #7252AA !important;
+        margin-bottom: 30px;   
+    }
+  h3 {       
+        color: #7252AA !important;     
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f8f8;
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        max-width: 1200px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+        text-align: center;
+        color: #7252AA !important;
+        margin-bottom: 30px;
+    }
+    .service {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+    .service-item {
+        
+        margin-bottom: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        transition: all 0.3s ease;
+        font-size: 0.8em !important;
+    }
+    .service-item:hover {
+        transform: translateY(-5px);
+    }
+    .service-item img {
+        width: 50%;
+        height: auto;
+        /*border-radius: 8px 8px 0 0; */
+        border-radius: 50%;
+    
+    }
+    .service-content {
+        padding: 20px;
+    }
+    .service-title {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        color: #b4a2d3 !important;
+    }
+    .service-description {
+        color: #666;
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>References</h2>
+      
+
+        <div class="service">
+            <div class="service-item">
+                <div class="service-content">
+
+                    <table class="table table-bordered table-striped">
+                        <thead>
+                          <tr>
+                            <th class="table-column-1">Name</th>
+                            <th class="table-column-2">Email</th>
+                            <th class="table-column-3">Tel</th>                
+                            <th class="table-column-4">Address</th>    
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <td> Prof: Wu Zhang </td>
+                            <td>wzhang@shu.edu.pk</td>
+                            <td>+86-13801973171</td>
+                            <td> School of Computer Engineering and Science Shanghai University, China     </td>
+                          </tr>
+                          <tr>
+                            <td> Dr. Wenhao Zhu </td>
+                            <td>whzhu@shu.edu.cn</td>
+                            <td>+86-85658135</td>
+                            <td> School of Computer Engineering and Science Shanghai University china  </td>
+                          </tr>
+                          <tr>
+                            <td> Dr. Muhammad Afzal    </td>
+                            <td>muhammad.afzal@bcu.ac.uk  </td>
+                            <td>0234082973  </td>
+                            <td> Birmingham City University, UK   </td>
+                          </tr>
+                          <tr>
+                            <td>  Dr. Said Nabi    </td>
+                            <td>said.nabi@vu.edu.pk </td>
+                            <td>0092344-4553282  </td>
+                            <td> Virtual University of Pakistan  </td>
+                          </tr>
+                        </tbody>
+                      </table>
+            
+            
+                     
+            
+            
+
+                </div>
+            </div>
+        </div>
+
+       
+
+
+    </div>
+    
+</body>
+</html> 
