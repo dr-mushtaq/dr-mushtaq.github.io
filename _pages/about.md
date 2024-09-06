@@ -15,7 +15,6 @@ My research focuses on the areas of **Machine Learning**, **Deep Learning**, **C
 
 💡I am Searching!
 ======
-## <p style="font-family:JetBrains Mono; font-weight:normal; letter-spacing: 1px; color:#207d06; font-size:100%; text-align:left;padding: 0px; border-bottom: 3px solid #207d06;">**1-Introduction**</p>
 Currently, I am looking for Postdoc and Industrial Research Collaboration in Deep learning and Machine learning.
 
 Site-wide configuration
