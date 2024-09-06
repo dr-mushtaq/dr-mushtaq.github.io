@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Professional Services"
-permalink: /Professional Services/
+title: "Academics"
+permalink: /Academics/
 author_profile: true
 redirect_from:
   - /resume
