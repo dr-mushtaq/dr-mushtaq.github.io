@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Professional Services"
+permalink: /Professional Services/
 author_profile: true
 redirect_from:
   - /resume
