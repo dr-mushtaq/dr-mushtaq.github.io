@@ -17,7 +17,7 @@ My research focuses on the areas of **Machine Learning**, **Deep Learning**, **C
 ======
 Currently, I am looking for Postdoc and Industrial Research Collaboration in Deep learning and Machine learning.
 
-News
+🌍News
 ------
 
 **1- August 2024:** I am excited that one of our paper will  accepted at the Applied science journal.
