@@ -17,11 +17,9 @@ main:
   - title: "MS Students"
     url: /MS Students/
         
+  - title: "Academics"
+    url: /Academics/
+
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Academics"
-    url: /Academics/
-    
-  - title: "Guide"
-    url: /markdown/
