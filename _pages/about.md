@@ -11,7 +11,7 @@ I am **Mushtaq Hussain**, regular faculty at the [Virtual University of Pakistan
 
 Research
 ======
-My research focuses on the areas of Machine Learning, Deep Learning, Computer Vision and NLP.  In particular, my prior research endeavors have revolved around predicting student difficulty and engagement levels within e-learning environments, employing a range of machine learning techniques to uncover insights and improve educational outcomes My current research interests include, analyze student specialization selection patterns using machine learning and deep learning techniques
+My research focuses on the areas of **Machine Learning**, **Deep Learning**, **Computer Vision and NLP**.  In particular, my prior research endeavors have revolved around predicting student difficulty and engagement levels within e-learning environments, employing a range of machine learning techniques to uncover insights and improve educational outcomes My current research interests include, analyze student specialization selection patterns using machine learning and deep learning techniques
 
 Getting started
 ======
