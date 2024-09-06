@@ -10,24 +10,99 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+# Professor's Research Papers
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+Welcome to the compilation of research papers and projects by Professor [Name]. This document includes research projects, PhD thesis, journal articles, and conference papers.
+
+## Research Projects
+
+1. **Machine Learning-Driven Approach for Waterborne Disease Warning**
+   - **Description:** Developed an early warning system using machine learning to mitigate health-related outbreaks like waterborne diseases in Pakistan.
+   - **HEC SRGP Project Ref. No.:** 162/IPFP-II(Batch-I)/SRGP/NAHE/HEC/2020/183 Islamabad
+   - **Date:** Jan 23, 2021
+   - **Funding:** PKR 1,000,000/-
+   - **URL:** [Link](#)
+
+2. **Building Education Chatbot for Decreasing Instructor Workload in E-learning System**
+   - **Description:** Implemented a chatbot to address student inquiries and decrease instructor workload in e-learning environments.
+
+3. **Building Instructor Dashboard for Decreasing Instructor Workload in E-learning System**
+   - **Description:** Created an instructor dashboard to streamline course management tasks and reduce instructor workload.
+
+## PhD Thesis
+
+**Mining web-based learning system data to detect different patterns of student behavior during course completion**
+   - **Supervisors:** Prof. Wu Zhang, Dr. Wenhao Zhu (Shanghai University, China)
+   - **Date:** March 18, 2019
+
+## Journal Articles
+
+1. **Using Machine Learning to Predict Student Difficulties from Learning Session Data**
+   - **Authors:** Mushtaq Hussain, Wenhao Zhu, Wu Zhang, S. Raza Abidi, Sadaqat Ali
+   - **Journal:** Artificial Intelligence Review, 52(1), 341-407
+   - **ISSN No.:** 1573-7462
+   - **Citations:** 174
+   - **Date:** February 2018
+
+2. **Student Engagement Prediction in an E-learning System and Their Impact on Student Course Assessment Scores**
+   - **Authors:** Mushtaq Hussain, Wenhao Zhu, Wu Zhang, Syed Muhammad Raza Abidi
+   - **Journal:** Computational Intelligence and Neuroscience, 2018 (6), 1-21
+   - **ISSN No.:** 1687-5273
+   - **Date:** August 2018
+
+3. **Prediction of Confusion Attempting Algebra Homework in an Intelligent Tutoring System through Machine Learning Techniques for Educational Sustainable Development**
+   - **Authors:** Syed Muhammad Raza Abidi, Mushtaq Hussain, Yonglin Xu, Wu Zhang
+   - **Journal:** Sustainability, 11(1), 1-105, IF:2.5
+   - **ISSN No.:** 2071-1050
+   - **Date:** December 19, 2018
+
+4. **Massive Learning Behaviors Influence Educational Sustainability: A Machine Learning Approach**
+   - **Authors:** Syed Muhammad Raza Abidi, Mushtaq Hussain, Ge Sen, Ding Hu, Zhu Wenhao, Zhang Wu
+   - **Conference:** Journal of Physics Conference Series, 2020 4th International Conference on Control Engineering and Artificial Intelligence (CCEAI 2020), Singapore
+   - **Date:** March 2020
+
+5. **Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques**
+   - **Authors:** Alhuseen Omar Alsayed, Mohd Shafry Mohd Rahim, Ibrahim AlBidewi, Mushtaq Hussain, Syeda Huma Jabeen, Nashwan Alromema, Sadiq Hussain, Muhammad Lawan Jibril
+   - **Journal:** Applied Sciences, 11(22), 1-105, IF:2.7
+   - **ISSN No.:** 2079-9292
+   - **Date:** November 2021
+
+6. **Machine Learning-Driven Approach for a COVID-19 Warning System**
+   - **Authors:** Mushtaq Hussain, Akhtarul Islam, Jamshid Ali Turi, Said Nabi, Monia Hamdi, Habib Hamam, Muhammad Ibrahim, Mehmet Akif Cifci, Tayyaba Sehar
+   - **Journal:** Electronics, 11(23), 1-15, IF:2.69
+   - **ISSN No.:** 2076-3417
+   - **Date:** November 2022
+
+7. **Machine Learning Based Efficient Prediction of Positive Cases of Waterborne Diseases**
+   - **Authors:** Mushtaq Hussain, Mehmet Akif Cifci, Tayyaba Sehar, Said Nabi
+   - **Journal:** BMC Medical Informatics and Decision Making, 11 (2023)
+   - **ISSN No.:** 472-6947
+   - **Date:** January 2023
+
+8. **RAPTS: Resource Aware Prioritized Task Scheduling Technique in Heterogeneous Fog Computing Environment**
+   - **Authors:** Mazhar Hussain, Said Nabi, Mushtaq Hussain
+   - **Journal:** Cluster Computing, 11(23), 1-15, IF:3.6
+   - **ISSN No.:** 1386-7857
+   - **Date:** June 2024
+
+## Conference Papers
+
+1. **On Throughput Optimization of Multichannel Single Interface 802.11 Protocol in Wireless Mesh Network**
+   - **Authors:** Mushtaq Hussain, Fazl-e-Hadi, Qazi Ijaz Ali
+   - **Conference:** 1st International Conference on Parallel, Distributed and Grid Computing (PDGC)
+   - **Date:** November 2010
+
+2. **Identifying Beneficial Sessions in an E-learning System Using Machine Learning Techniques**
+   - **Authors:** Mushtaq Hussain, Wenhao Zhu, Wu Zhang, Jianyue Ni, Zaheer Ullah Khan, Sadiq Hussain
+   - **Conference:** IEEE Conference on Big Data & Analytics 2018, Langkawi Island, Malaysia
+   - **Date:** November 2018
+
+3. **Mining Moodle Data to Detect the Inactive and Low-Performance Students During the Moodle Course**
+   - **Authors:** Mushtaq Hussain, Sadiq Hussain, Wu Zhang, Wenhao Zhu, Paraskevi Theodorou, Syed Muhammad Raza Abidi
+   - **Conference:** 2nd International Conference on Big Data Research (ICBDR 2018), Weihai, China
+   - **Date:** October 2018
+
+4. **Student Next Assignment Submission Prediction Using a Machine Learning Approach**
+   - **Authors:** Yass Khudher, Mushtaq Hussain, Theodorou
+   - **Conference:** International Russian Automation Conference, 729, pp. 383–393, 2020
+   - **Date:** [Date not specified]
