@@ -3,7 +3,7 @@ title: "Student Engagement Predictions in an e‐Learning System and Their Impac
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ' In this study, we used machine learning (ML) algorithms to identify low-engagement students in a social science course at the Open University (OU) to assess the effect of engagement on student performance.'
 date: 02 October 2018
 venue: 'Computational intelligence and neuroscience'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
