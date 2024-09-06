@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "🎓About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 I am **Mushtaq Hussain**, regular faculty at the [Virtual University of Pakistan](https://www.vu.edu.pk>). I completed a Master of Information Technology (MIT) degree from [University of Science and Technolog of Khoat](https://www.kust.edu.pk) Prior to pursuing my PhD, I earned a Master of Science in Information Technology (MSIT) from the [Agricultural University of Peshawar](https://www.aup.edu.pk).I then completed my   PhD at [Shanghai University in China](https://apply.shu.edu.cn) under the supervision of Professor Wu Zhang."
 
-Research
+📚 Research
 ======
 My research focuses on the areas of **Machine Learning**, **Deep Learning**, **Computer Vision and NLP**.  In particular, my prior research endeavors have revolved around predicting student difficulty and engagement levels within e-learning environments, employing a range of machine learning techniques to uncover insights and improve educational outcomes My current research interests include, analyze student specialization selection patterns using machine learning and deep learning techniques
 
