@@ -1,142 +1,16 @@
----
+ ---
 layout: archive
 title: "Talks and presentations"
-permalink: /Talks/
+permalink: /talks/
 author_profile: true
 ---
 
 {% if site.talkmap_link == true %}
 
- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Professional Services</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f8f8;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #7252AA !important;
-            margin-bottom: 30px;
-        }
-        .service {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            margin-top: 20px;
-        }
-        .service-item {
-            width: calc(33.33% - 20px);
-            margin-bottom: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            overflow: hidden;
-            transition: all 0.3s ease;
-            font-size: 0.8em !important;
-        }
-        .service-item:hover {
-            transform: translateY(-5px);
-        }
-        .service-item img {
-            width: 50%;
-            height: auto;
-            border-radius: 50%;
-        }
-        .service-content {
-            padding: 20px;
-        }
-        .service-title {
-            font-size: 20px;
-            font-weight: bold;
-            margin-bottom: 10px;
-            color: #7252AA !important;
-        }
-        .service-description {
-            color: #666;
-        }
-    </style>
-</head>
-<body>
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-<div class="container">
-    <h1>Professional Services</h1>
-    <div class="service">
-        <div class="service-item">
-            <center><img src="https://drive.google.com/thumbnail?id=1ZZ_zva8r9WwfPqovbJ1i9ikBq54ojht7" alt="Virtual University of Pakistan" /></center>
-            <div class="service-content">
-                <div class="service-title">Virtual University of Pakistan</div>
-                <div class="service-description">Position: Assistant Professor</div>
-                <p>Department: Computer Science</p>
-                <p>Dates: First-July 2021 - Ongoing</p>
-                <p>The position involves teaching undergraduate and Master of Science courses while also serving as a Member of the Board of Study.</p>
-            </div>
-        </div>
-        <div class="service-item">
-            <center><img src="https://drive.google.com/thumbnail?id=1P1TRZVgdko_NS1xBq7Di7shOc9X7eeFQ" alt="University of Haripur, Pakistan" /></center>
-            <div class="service-content">
-                <div class="service-title">University of Haripur, Pakistan</div>
-                <div class="service-description">Position: Assistant Professor</div>
-                <p>Department: Information Technology</p>
-                <p>Dates: 22-Sept 2020 to 30 June 2021</p>
-                <p>The role encompasses teaching undergraduate and Master of Science courses alongside active involvement in research projects.</p>
-            </div>
-        </div>
-        <div class="service-item">
-            <center><img src="https://drive.google.com/thumbnail?id=1e7B5NfyWLK614Vu9ROGG-JYWE1siSVa7" alt="Arid Agriculture University Rawalpindi" /></center>
-            <div class="service-content">
-                <div class="service-title">Arid Agriculture University Rawalpindi</div>
-                <div class="service-description">Position: Visiting Faculty</div>
-                <p>Department: Information Technology</p>
-                <p>Dates: 30-Sept-2019 to 18-Feb-2020</p>
-                <p>I instructed Introduction to Artificial Intelligence (AI) to Bachelor of Science in Information Technology (BSIT) students.</p>
-            </div>
-        </div>
-        <div class="service-item">
-            <center><img src="https://drive.google.com/thumbnail?id=1XwK8UaYrUfFAI-CRhn8i87v3G6qHBNtE" alt="SZABIST (Islamabad)" /></center>
-            <div class="service-content">
-                <div class="service-title">SZABIST (Islamabad)</div>
-                <div class="service-description">Position: Visiting Faculty</div>
-                <p>Department: Data Science</p>
-                <p>Dates: 27-Jan-2020 to 25-May-2020</p>
-                <p>As a Deep Learning instructor, I developed and delivered engaging lectures, assignments, and quizzes for Master of Science students.</p>
-            </div>
-        </div>
-        <div class="service-item">
-            <center><img src="https://drive.google.com/thumbnail?id=1sLrMUV1LK3JZao20w309_zNjGLSlhZtw" alt="Khushali Bank (Pvt.) Ltd" /></center>
-            <div class="service-content">
-                <div class="service-title">Khushali Bank (Pvt.) Ltd</div>
-                <div class="service-description">Position: Data Center Officer</div>
-                <p>Department: Data Center</p>
-                <p>Dates: 2012-2014</p>
-                <p>With a focus on IT infrastructure, I've adeptly configured and managed Active Directory.</p>
-            </div>
-        </div>
-        <div class="service-item">
-            <center><img src="https://drive.google.com/thumbnail?id=1JCutS4lO7uNQQth2DfqIVgV8eYjzMdAI" alt="PAF College Murree" /></center>
-            <div class="service-content">
-                <div class="service-title">PAF College Murree</div>
-                <div class="service-description">Position: System Administrator</div>
-                <p>Dates: 2009-2011</p>
-                <p>In my role as an educator, I've instructed first and second-year classes with a focus on delivering engaging and informative lessons.</p>
-            </div>
-        </div>
-    </div>
-</div>
+{% endif %}
 
-</body>
-</html>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
