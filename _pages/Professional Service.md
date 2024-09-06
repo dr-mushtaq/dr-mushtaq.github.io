@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Academics"
-permalink: /Academics/
+title: "Professional Service"
+permalink: /Professional Service/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-
+  <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Academic Details</title>
+    <title>Professional Services</title>
     <style>
-    body {
+        body {
             font-family: Arial, sans-serif;
             background-color: #f8f8f8;
             margin: 0;
@@ -76,64 +76,65 @@ redirect_from:
 <body>
 
 <div class="container">
-    <h1>Academic Details</h1>
+    <h1>Professional Services</h1>
     <div class="service">
         <div class="service-item">
-           <center>
-            <img src="https://drive.google.com/thumbnail?id=1tJYQ0ITs7M69LJ7YM9eoW_zoL7Nw4h_p" alt="Student 1" /></center>
+            <center><img src="https://drive.google.com/thumbnail?id=1ZZ_zva8r9WwfPqovbJ1i9ikBq54ojht7" alt="Virtual University of Pakistan" /></center>
             <div class="service-content">
-                <div class="service-title">PhD</div>
-                <div class="service-description">Major:  Machine Learning, Deep Learning.</div>
-                <p>Supervisors:Prof: Wu Zhang   .</p>
-                <p>Dates: 2014 - 2019 .</p>
-                <p>Shanghai University, China .</p>
+                <div class="service-title">Virtual University of Pakistan</div>
+                <div class="service-description">Position: Assistant Professor</div>
+                <p>Department: Computer Science</p>
+                <p>Dates: First-July 2021 - Ongoing</p>
+                <p>The position involves teaching undergraduate and Master of Science courses while also serving as a Member of the Board of Study.</p>
             </div>
         </div>
         <div class="service-item">
-            <center><img src="https://drive.google.com/thumbnail?id=16RrUgu5xAcZXSHcZG0yIlwPzRjxHUtH_" alt="Student 2" /></center>
+            <center><img src="https://drive.google.com/thumbnail?id=1P1TRZVgdko_NS1xBq7Di7shOc9X7eeFQ" alt="University of Haripur, Pakistan" /></center>
             <div class="service-content">
-                <div class="service-title">MSIT</div>
-                <div class="service-description">Major:Computer Wireless Network</div>
-                <p>Supervisors: Dr Fazal Haidi.</p>
-                <p>Dates: 2007-2010.</p>
-                <p>Agriculture University Peshawar</p>
+                <div class="service-title">University of Haripur, Pakistan</div>
+                <div class="service-description">Position: Assistant Professor</div>
+                <p>Department: Information Technology</p>
+                <p>Dates: 22-Sept 2020 to 30 June 2021</p>
+                <p>The role encompasses teaching undergraduate and Master of Science courses alongside active involvement in research projects.</p>
             </div>
         </div>
         <div class="service-item">
-            <center><img src="https://drive.google.com/thumbnail?id=1WeD-cEoCLD4bPMt1-BU09O8TmdwLLPVe" alt="Student 3"/></center>
+            <center><img src="https://drive.google.com/thumbnail?id=1e7B5NfyWLK614Vu9ROGG-JYWE1siSVa7" alt="Arid Agriculture University Rawalpindi" /></center>
             <div class="service-content">
-                <div class="service-title">MIT</div>
-                <div class="service-description">Major:Information Technology .</div>
-                <p>Supervisors: Mr Jawad.</p>
-                <p>Dates: 2004-2007.</p>
-                <p>Kohat University of Science and Technology.</p>
+                <div class="service-title">Arid Agriculture University Rawalpindi</div>
+                <div class="service-description">Position: Visiting Faculty</div>
+                <p>Department: Information Technology</p>
+                <p>Dates: 30-Sept-2019 to 18-Feb-2020</p>
+                <p>I instructed Introduction to Artificial Intelligence (AI) to Bachelor of Science in Information Technology (BSIT) students.</p>
             </div>
         </div>
         <div class="service-item">
-            <center> <img src="https://drive.google.com/thumbnail?id=1uWJLerp01EGQAw4--UeD1VrsLSUr6QMi" alt="Student 3"/></center>
+            <center><img src="https://drive.google.com/thumbnail?id=1XwK8UaYrUfFAI-CRhn8i87v3G6qHBNtE" alt="SZABIST (Islamabad)" /></center>
             <div class="service-content">
-                <div class="service-title">Bsc </div>
-                <div class="service-description">Major:Math and Computer Science.</div>
-                <p>Forward Degree College Hayatabad, Peshawar, Pakistan</p>
-                <p>Dates:2000-2004.</p>
+                <div class="service-title">SZABIST (Islamabad)</div>
+                <div class="service-description">Position: Visiting Faculty</div>
+                <p>Department: Data Science</p>
+                <p>Dates: 27-Jan-2020 to 25-May-2020</p>
+                <p>As a Deep Learning instructor, I developed and delivered engaging lectures, assignments, and quizzes for Master of Science students.</p>
             </div>
         </div>
         <div class="service-item">
-            <center><img src="https://drive.google.com/thumbnail?id=1kEjQCqY4eNAvjopialqoj-fWpkgTnJ1L" alt="Student 3"/></center>
+            <center><img src="https://drive.google.com/thumbnail?id=1sLrMUV1LK3JZao20w309_zNjGLSlhZtw" alt="Khushali Bank (Pvt.) Ltd" /></center>
             <div class="service-content">
-                <div class="service-title">Fsc</div>
-                <div class="service-description">Major:Pre-Engineering </div>
-                <p>Parachinar Degree College,Pakistan.</p>
-                <p>Dates: 1998-2001</p>
+                <div class="service-title">Khushali Bank (Pvt.) Ltd</div>
+                <div class="service-description">Position: Data Center Officer</div>
+                <p>Department: Data Center</p>
+                <p>Dates: 2012-2014</p>
+                <p>With a focus on IT infrastructure, I've adeptly configured and managed Active Directory.</p>
             </div>
         </div>
         <div class="service-item">
-            <center> <img src="https://drive.google.com/thumbnail?id=11Yo77RPMIwfhapYrEiEQV0ykQj_ub07y" alt="Student 3"/></center>
+            <center><img src="https://drive.google.com/thumbnail?id=1JCutS4lO7uNQQth2DfqIVgV8eYjzMdAI" alt="PAF College Murree" /></center>
             <div class="service-content">
-                <div class="service-title">Metrics</div>
-                <div class="service-description">Major:Science</div>
-                <p>Kirman High School Parachinar,Pakistan</p>
-                <p>Dates:1998-Annual</p>
+                <div class="service-title">PAF College Murree</div>
+                <div class="service-description">Position: System Administrator</div>
+                <p>Dates: 2009-2011</p>
+                <p>In my role as an educator, I've instructed first and second-year classes with a focus on delivering engaging and informative lessons.</p>
             </div>
         </div>
     </div>
@@ -141,4 +142,3 @@ redirect_from:
 
 </body>
 </html>
-
