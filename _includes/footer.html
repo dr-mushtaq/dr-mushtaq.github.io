@@ -24,29 +24,53 @@ dddddddddddddd
 
   {% include base_path %}
 
-{% if site.author.github or site.author.linkedin or site.author.researchgate or site.author.googlescholar or site.author.webofscience or site.author.orcid %}
+{% if site.author.github or site.author.researchgate or site.author.googlescholar or site.author.orcid or site.author.linkedin or site.author.webofscience %}
 <div class="page__footer-follow" style="text-align: center;">
   <ul class="social-icons" style="list-style: none; padding: 0; display: inline-block;">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
     {% if site.author.github %}
-      <li style="display: inline; margin-right: 10px;"><a href="http://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li style="display: inline; margin-right: 10px;">
+        <a href="http://github.com/{{ site.author.github }}" target="_blank">
+          <i class="fab fa-github" aria-hidden="true"></i> GitHub
+        </a>
+      </li>
     {% endif %}
     {% if site.author.linkedin %}
-      <li style="display: inline; margin-right: 10px;"><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+      <li style="display: inline; margin-right: 10px;">
+        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank">
+          <i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn
+        </a>
+      </li>
     {% endif %}
     {% if site.author.researchgate %}
-      <li style="display: inline; margin-right: 10px;"><a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" target="_blank"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+      <li style="display: inline; margin-right: 10px;">
+        <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" target="_blank">
+          <i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate
+        </a>
+      </li>
     {% endif %}
     {% if site.author.googlescholar %}
-      <li style="display: inline; margin-right: 10px;"><a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
+      <li style="display: inline; margin-right: 10px;">
+        <a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}" target="_blank">
+          <i class="fa fa-graduation-cap" aria-hidden="true"></i> Google Scholar
+        </a>
+      </li>
     {% endif %}
     {% if site.author.webofscience %}
-      <li style="display: inline; margin-right: 10px;"><a href="https://www.webofscience.com/wos/author/{{ site.author.webofscience }}" target="_blank"><i class="fa fa-book" aria-hidden="true"></i> Web of Science</a></li>
+      <li style="display: inline; margin-right: 10px;">
+        <a href="https://www.webofscience.com/wos/author/{{ site.author.webofscience }}" target="_blank">
+          <i class="fa fa-book" aria-hidden="true"></i> Web of Science
+        </a>
+      </li>
     {% endif %}
     {% if site.author.orcid %}
-      <li style="display: inline; margin-right: 10px;"><a href="https://orcid.org/{{ site.author.orcid }}" target="_blank"><i class="fa fa-id-badge" aria-hidden="true"></i> ORCID</a></li>
+      <li style="display: inline; margin-right: 10px;">
+        <a href="https://orcid.org/{{ site.author.orcid }}" target="_blank">
+          <i class="fa fa-id-badge" aria-hidden="true"></i> ORCID
+        </a>
+      </li>
     {% endif %}
   </ul>
 </div>
@@ -59,4 +83,3 @@ dddddddddddddd
   <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, 
   a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
 </div>
-
