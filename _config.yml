@@ -37,14 +37,14 @@ NLP|Computer Vision"
   email            : "mushtaqmsit@gmail.com" 
 
   # Academic websites
-  Github           : "dr-mushtaq"
+  Github           : "https://github.com/dr-mushtaq"
   googlescholar    : "https://scholar.google.com/citations?user=Ew_RQewAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7238-7924"
   LinkedIn         : "https://www.linkedin.com/in/mushtaq-hussain-21417814/"
   Web of Science   : "https://www.webofscience.com/wos/author/record/AAN-9530-2021"
   researchgate     : "https://www.researchgate.net/profile/Mushtaq-Hussain-5"
-  github: "https://github.com/dr-mushtaq"  # Full URL
+  #github: "https://github.com/dr-mushtaq"  # Full URL
   #googlescholar: "Ew_RQewAAAAJ"
   researchgate: "Mushtaq-Hussain-5"  # Only the username
   #orcid: "0000-0002-7238-7924"
