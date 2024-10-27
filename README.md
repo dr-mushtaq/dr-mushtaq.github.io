@@ -1,52 +1,76 @@
-# Academic Pages
+
+<h1 align="left">Hi there 👋 Dr.Mushtaq Hussain</h1>
+
+###![Assistant Professor and Data Science Expert ]([https://github.com/hussain0048/dr-mushtaq/blob/main/Dr%20mUSHTAQ%20hUSSAIN%20(2).png](https://github.com/dr-mushtaq/dr.mushtaq/blob/main/Dr%20mUSHTAQ%20hUSSAIN%20(2).png))
+
+👋 Greetings! I'm Mushtaq Hussain, a seasoned trainer and Assistant Professor renowned for my extensive experience in both industry and academia. My expertise lies in the dynamic realm of Data Science, where I excel in harnessing the power of Python, MATLAB, RapidMiner, and a comprehensive suite of cutting-edge tools. With a robust background in machine learning and deep learning methodologies, I am dedicated to advancing knowledge and fostering innovation in these transformative fields. Explore my GitHub repository to witness firsthand my commitment to excellence and my contributions to the evolution of data-driven solutions.
+
+💻 My journey in the field of Machine Learning (ML) and Deep Learning has been enriching, marked by hands-on experience and a commitment to innovation. As an Assistant Professor at the Virtual University of Pakistan, I blend practical industry insights with academic rigor to empower the next generation of data enthusiasts.
+
+🔬 Whether it's unraveling complex datasets, building predictive models, or diving into the depths of deep learning architectures, I thrive on the challenge of solving real-world problems through data analysis.
+
+🚀 Let's connect and explore the endless possibilities at the intersection of data and technology!
+
+###
+
+<h3 align="left">Languages,Libraries, Frameworks and Tools 🐍</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+</div>
+
+Skills: Python (Kera, Sklearn) / Matlab /
+
+- 🔭 I’m currently working on Developing an AI-based chatbot system for Virtual University using Deep learning and Machine learning 
+- 🌱 I’m currently learning Time Series analysis using Deep Learning and Machine Learning 
+- 👯 I’m looking to collaborate on  Data Science Research Projects 
+- 📫 How to reach me: mushtaqmsit@gmail.com 
+- ⚡ Fun fact: Movies, Basketball 
 
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/company/90909828/admin/feed/posts/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CourseTeach)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coursesteach.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>]( 0000-0002-7238-7924)  
 
-Academic Pages is a Github Pages template for academic websites.
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
-# Getting Started
+✴️: Skills :
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+1. **Programming languages** : Python [NumPy, Pandas, Scikit-learn, Keras]
+2. **Databases**: My SQL,
+3. **Tools** : Streamlit , Jupyter Notebook, Google Collab, Pycaret
+4. **Visualization and Analytical Tools**: Tableau, Matplotlib, Seaborn, PowerBI
+5. **Machine Learning Skills** - Data Preprocessing, Data Visualization , Model Validation and peformance, Regression, Classification, Neural network analysis
+6. **Computer Vision Skills** - Image Preprocessing, Image Visualization, image Classification 
 
-See more info at https://academicpages.github.io/
+### Visitor Counter
+![VisitorCounter](https://profile-counter.glitch.me/hussain0048/count.svg)
 
-## Running Locally
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hussain0048&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=hussain0048&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussain0048&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-# Maintenance
-
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
