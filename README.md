@@ -1,27 +1,9 @@
 
-<h1 align="left">Hi there 👋 Dr.Mushtaq Hussain</h1>
 
-###![Assistant Professor and Data Science Expert ]([https://github.com/hussain0048/dr-mushtaq/blob/main/Dr%20mUSHTAQ%20hUSSAIN%20(2).png](https://github.com/dr-mushtaq/dr.mushtaq/blob/main/Dr%20mUSHTAQ%20hUSSAIN%20(2).png))
+ 🔍 **References Website👋🛒**
 
-👋 Greetings! I'm Mushtaq Hussain, a seasoned trainer and Assistant Professor renowned for my extensive experience in both industry and academia. My expertise lies in the dynamic realm of Data Science, where I excel in harnessing the power of Python, MATLAB, RapidMiner, and a comprehensive suite of cutting-edge tools. With a robust background in machine learning and deep learning methodologies, I am dedicated to advancing knowledge and fostering innovation in these transformative fields. Explore my GitHub repository to witness firsthand my commitment to excellence and my contributions to the evolution of data-driven solutions.
-
-💻 My journey in the field of Machine Learning (ML) and Deep Learning has been enriching, marked by hands-on experience and a commitment to innovation. As an Assistant Professor at the Virtual University of Pakistan, I blend practical industry insights with academic rigor to empower the next generation of data enthusiasts.
-
-🔬 Whether it's unraveling complex datasets, building predictive models, or diving into the depths of deep learning architectures, I thrive on the challenge of solving real-world problems through data analysis.
-
-🚀 Let's connect and explore the endless possibilities at the intersection of data and technology!
-
-###
-
-<h3 align="left">References Website for github.io 🐍</h3>
- #[purrlab](https://purrlab.github.io/)
-
-
-
-###
-
-<h3 align="left">Languages,Libraries, Frameworks and Tools 🐍</h3>
-
+* [**purrlab**](https://purrlab.github.io/)
+* [**Fundamental of Machine Learning**](https://coursesteach.com/enrol/index.php?id=6)
 ###
 
 <div align="left">
