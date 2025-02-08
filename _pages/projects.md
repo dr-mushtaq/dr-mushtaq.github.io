@@ -5,8 +5,6 @@ permalink: /projects/
 description: On-going research projects.
 nav: true
 nav_order: 2
-display_categories: [work]
-horizontal: false
 ---
 
 <!-- pages/projects.md -->
