@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Projects
 permalink: /Projects/
 description: On-going research projects.
