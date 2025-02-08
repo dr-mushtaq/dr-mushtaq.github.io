@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Projects
-permalink: /Projects/
+permalink: /projects/
 description: On-going research projects.
 nav: true
 nav_order: 2
