@@ -3,7 +3,7 @@
  🔍 **References Website👋🛒**
 
 * [**purrlab**](https://purrlab.github.io/)
-* [**Fundamental of Machine Learning**](https://coursesteach.com/enrol/index.php?id=6)
+* [**Robotic Learning for Curious People**](https://aos55.github.io/deltaq/posts/an-overview-of-robotic-learning/)
 ###
 
 <div align="left">
