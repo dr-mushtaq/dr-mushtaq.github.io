@@ -6,10 +6,10 @@ Welcome to the **Research Projects** page of Dr. Mushtaq's research group. Here,
 
 ## Ongoing Research Projects
 
-### [Project Title 1: AI in Healthcare](#)  
+### [Project Title 1: Chatbot in Healthcare](#)  
 **Lead Investigator:** Dr. Mushtaq  
 **Research Focus:** Exploring the applications of **AI** in healthcare, specifically in **medical imaging** and **predictive analytics** for early disease detection.  
-**Description:** This project aims to develop advanced machine learning models that can analyze medical images and patient data to predict diseases at an early stage, improving treatment outcomes and saving lives.  
+**Description:** This research project developmed of a chatbot-based patient interaction system using ERPNext Healthcare as the backend and an Android app as the primary interface. The system assists Healthcare Assistants (HAs) and nurses in patient triage, data collection, and referral management, ensuring seamless integration with ERPNext's electronic medical records (EMR) module..  
 **Technologies Used:** Deep Learning, Convolutional Neural Networks (CNNs), TensorFlow, Keras  
 **Status:** Ongoing, with successful pilot results in collaboration with healthcare institutions.  
 **Publications:** [Link to Paper 1](#), [Link to Paper 2](#)
