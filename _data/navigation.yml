@@ -22,6 +22,9 @@ main:
 
   - title: "Projects"
     url: /projects/
+    
+  - title: "Events"
+    url: /events/
 
   - title: "CV"
     url: https://docs.google.com/document/d/1wWnESInL6YWvD42edJmBwow5FQqdi6Ye/edit?usp=sharing&ouid=117988987591529770272&rtpof=true&sd=true
