@@ -14,7 +14,7 @@ Welcome to the **Research Projects** page of Dr. Mushtaq's research group. Here,
 **Status:** Ongoing, with successful pilot results in collaboration with healthcare institutions.  
 **Publications:** [Link to Paper 1](#), [Link to Paper 2](#)
 
-![Project 1 Image](https://placekitten.com/300/200) <!-- Replace with actual project image -->
+![Project 1 Image](https://github.com/dr-mushtaq/dr-mushtaq.github.io/blob/main/images/DALL%C2%B7E%202025-02-11%2012.33.15%20-%20A%20modern%20healthcare%20technology%20banner%20featuring%20a%20chatbot%20assisting%20a%20nurse%20with%20patient%20data%20entry%20on%20a%20tablet.%20The%20background%20includes%20medical%20icons.webp) <!-- Replace with actual project image -->
 
 ---
 
