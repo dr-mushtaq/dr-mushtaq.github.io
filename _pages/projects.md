@@ -1,20 +1,15 @@
----
-layout: archive
-title: "Projects"
-permalink: /projects/
-author_profile: true
-redirect_from:
-  - /resume
----
-
- {% include base_path %}
+   
+       {% include base_path %}
 
 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Academic Details</title>
+    <title>Research Projects | Dr. Mushtaq's Research Group</title>
+    <p>Welcome to the Research Projects page of Dr. Mushtaq's research group. Here, you can learn about the exciting research projects we're working on, focusing on AI, Machine Learning, Natural Language Processing, and more.</p>
+    
+    <title>Ongoing Research Projects</title>
     <style>
     body {
             font-family: Arial, sans-serif;
@@ -141,4 +136,3 @@ redirect_from:
 
 </body>
 </html>
-
