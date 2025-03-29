@@ -1,6 +1,6 @@
  ---
 layout: archive
-permalink: /Projects/
+permalink: /projects/
 author_profile: true
 ---
 
@@ -53,8 +53,9 @@ author_profile: true
         }
         .project-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 20px;
+            justify-content: center;
         }
         .project-card {
             background-color: #fff;
@@ -85,6 +86,12 @@ author_profile: true
             color: #666;
             line-height: 1.5;
         }
+        .project-meta {
+            font-size: 0.9em;
+            font-weight: bold;
+            color: #333;
+            margin-top: 10px;
+        }
     </style>
 </head>
 <body>
@@ -96,60 +103,25 @@ author_profile: true
             <div class="section-title">Ongoing Projects</div>
             <div class="project-grid">
                 <div class="project-card">
-                    <img src="https://drive.google.com/thumbnail?id=1n3mJnLHaeyHDSpJgTHWmoW-pbzb-91Au" alt="AI-Powered Chatbots in E-Learning">
+                    <img src="https://drive.google.com/thumbnail?id=1n3mJnLHaeyHDSpJgTHWmoW-pbzb-91Au" alt="AI Chatbots">
                     <div class="project-title">AI-Powered Chatbots in E-Learning</div>
-                    <div class="project-info">
-                        <ul>
-                            <li>Investigating chatbot systems to reduce workload in online education</li>
-                            <li><strong>Dates:</strong> July 2021 - Ongoing</li>
-                            <li><strong>PI:</strong> Dr. Mushtaq Hussain</li>
-                            <li><a href="https://github.com/dr-mushtaq/Chatbot-in-e-learning-system">GitHub Repository</a></li>
-                        </ul>
-                    </div>
+                    <div class="project-info">Investigating chatbot systems to reduce workload in online education.</div>
+                    <div class="project-meta"><strong>Dates:</strong> July 2021 - Ongoing</div>
+                    <div class="project-meta"><strong>PI:</strong> Dr. Mushtaq Hussain</div>
+                    <p><a href="https://github.com/dr-mushtaq/Chatbot-in-e-learning-system">GitHub Link</a></p>
                 </div>
                 <div class="project-card">
-                    <img src="https://via.placeholder.com/80" alt="Text Summarization with Transformers">
+                    <img src="https://via.placeholder.com/80" alt="Text Summarization">
                     <div class="project-title">Text Summarization with Transformers</div>
                     <div class="project-info">Coming Soon</div>
                 </div>
                 <div class="project-card">
-                    <img src="https://drive.google.com/thumbnail?id=1pCIAvT0D_0jBiNdzTsoetdLs5S_4krag" alt="Chatbot Development for Healthcare Assistants">
-                    <div class="project-title">Chatbot Development for Healthcare Assistants</div>
-                    <div class="project-info">
-                        <ul>
-                            <li>AI-based chatbot assisting Healthcare Assistants (HAs) and nurses</li>
-                            <li><strong>Dates:</strong> July 2021 - Ongoing</li>
-                            <li><strong>PI:</strong> Dr. Mushtaq Hussain</li>
-                            <li><a href="https://github.com/dr-mushtaq/Chatbot-for-Healthcare">GitHub Repository</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="section-title">Completed Projects</div>
-            <div class="project-grid">
-                <div class="project-card">
-                    <img src="https://drive.google.com/thumbnail?id=1kWLDVi9clgj2Qr235pC5hLI7TDCHhq_y" alt="Machine Learning-Driven Approach for Waterborne Disease Warning">
-                    <div class="project-title">Machine Learning-Driven Approach for Waterborne Disease Warning</div>
-                    <div class="project-info">
-                        <ul>
-                            <li>Developed an early warning system using machine learning</li>
-                            <li><strong>Dates:</strong> Jan 23, 2021 - Completed</li>
-                            <li><strong>HEC SRGP Project Ref. No.:</strong> 162/IPFP-II(Batch-I)/SRGP/NAHE/HEC/2020/183</li>
-                            <li><strong>PI:</strong> Dr. Mushtaq Hussain</li>
-                            <li><a href="https://github.com/dr-mushtaq/Research-Work/blob/c2672c3af00bf8f227367d58717e8f1cd33f5280/Watern_Brone_Disease_9_21_2021(Malaria).ipynb#L4">GitHub Repository</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="project-card">
-                    <img src="https://via.placeholder.com/80" alt="Road Accident Analysis">
-                    <div class="project-title">Road Accident Analysis</div>
-                    <div class="project-info">Coming Soon</div>
-                </div>
-                <div class="project-card">
-                    <img src="https://via.placeholder.com/80" alt="Automated Essay Scoring">
-                    <div class="project-title">Automated Essay Scoring</div>
-                    <div class="project-info">Coming Soon</div>
+                    <img src="https://drive.google.com/thumbnail?id=1pCIAvT0D_0jBiNdzTsoetdLs5S_4krag" alt="Healthcare Chatbot">
+                    <div class="project-title">Chatbot for Healthcare Assistants</div>
+                    <div class="project-info">Developing AI-based chatbot for patient triage and data collection.</div>
+                    <div class="project-meta"><strong>Dates:</strong> July 2021 - Ongoing</div>
+                    <div class="project-meta"><strong>PI:</strong> Dr. Mushtaq Hussain</div>
+                    <p><a href="https://github.com/dr-mushtaq/Chatbot-for-Healthcare">GitHub Link</a></p>
                 </div>
             </div>
         </div>
