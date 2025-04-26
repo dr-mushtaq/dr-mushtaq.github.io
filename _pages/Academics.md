@@ -81,7 +81,7 @@ redirect_from:
         <div class="service-item">
            <center>
             <img src="https://drive.google.com/thumbnail?id=1tJYQ0ITs7M69LJ7YM9eoW_zoL7Nw4h_p" alt="Student 1" /></center>
-            <div style="line-height: 1.2; class="service-content">
+            <div class="service-content">
                 <div class="service-title">PhD</div>
                 <div class="service-description">Major:  Machine Learning, Deep Learning.</div>
                 <p>Supervisors:Prof: Wu Zhang   .</p>
