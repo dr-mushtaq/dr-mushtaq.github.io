@@ -32,10 +32,22 @@ Currently, I am looking for Postdoc and Industrial Research Collaboration in Dee
 
 
 
-🌍News
+🌍 **News and Updates**
 ------
 
-**1- August 2024:** I am excited that one of our paper will  accepted at the Applied science journal.
+### **August 2024**
+- **Paper Accepted**: I am excited that one of our papers will be accepted at the *Applied Science Journal*.
 
-**2- september**:comming soon.
+### **September 2024**
+- **Upcoming Conference Presentation**: I will be presenting my research on "Predicting Student Engagement in E-learning" at the *International Conference on Machine Learning*.
+  
+### **April 2025**
+- **Findl Depance**: I have started a new collaboration with the *University of XYZ* to explore deep learning techniques for image classification.
+
+ ### **Student News**
+- **Nabila Anum's Thesis Defense**: My student, **Nabila Anum**, will soon be defending her thesis on "Deep Learning Models for Predicting Student Engagement in E-learning Environments." I'm proud of her hard work and look forward to seeing the results of her research.
+
+### **Upcoming**
+- **New Course Launch**: I will be launching a new online course on *Advanced Machine Learning Techniques* in early 2025. Stay tuned for updates!
+
 
