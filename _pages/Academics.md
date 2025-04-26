@@ -85,6 +85,7 @@ redirect_from:
                 <div class="service-title">PhD</div>
                 <div class="service-description">Major:  Machine Learning, Deep Learning.</div>
                 <p>Supervisors:Prof: Wu Zhang   .</p>
+                 <p>Thesis Ttile:Mining web-based learning system data to detect different patterns of student behavior during course completion.</p>
                 <p>Dates: 2014 - 2019 .</p>
                 <p>Shanghai University, China .</p>
             </div>
