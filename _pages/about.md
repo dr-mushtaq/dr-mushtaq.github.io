@@ -19,45 +19,17 @@ Currently, I am looking for Postdoc and Industrial Research Collaboration in Dee
 
 ## Skills
 
-### Programming:
-- Python
-- NumPy
-- Pandas
+| **Category**               | **Skills**                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **Programming**             | Python, NumPy, Pandas                                                     |
+| **ML/DL Frameworks**        | Scikit-learn, Keras, PyCaret, TensorFlow, PyTorch                         |
+| **Machine Learning**        | Classification, Clustering, Data Preprocessing                             |
+| **Deep Learning**           | ANN, CNN                                                                   |
+| **Computer Vision**         | Image Processing, Filtering, Classification                               |
+| **Natural Language Processing** | Text Classification, Sentiment Analysis                                |
+| **Development Tools**       | VSCode, Google Colab, LMS, GitHub, Jupyter                                |
+| **LMS Platforms**           | Moodle                                                                    |
 
-### ML/DL Frameworks:
-- Scikit-learn
-- Keras
-- PyCaret
-- TensorFlow
-- PyTorch
-
-### Machine Learning:
-- Classification
-- Clustering
-- Data Preprocessing
-
-### Deep Learning:
-- ANN
-- CNN
-
-### Computer Vision:
-- Image Processing
-- Filtering
-- Classification
-
-### Natural Language Processing:
-- Text Classification
-- Sentiment Analysis
-
-### Development Tools:
-- VSCode
-- Google Colab
-- LMS
-- GitHub
-- Jupyter
-
-### LMS Platforms:
-- Moodle
 
 
 🌍News
