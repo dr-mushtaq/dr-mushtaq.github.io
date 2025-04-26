@@ -8,7 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""Dr. Mushtaq - AI Research, Machine Learning & Deep Learning"
+#title                    : ""Dr. Mushtaq - AI Research, Machine Learning & Deep Learning"
+title: "Dr. Mushtaq - AI Research, Machine Learning & Deep Learning"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
