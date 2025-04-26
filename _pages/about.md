@@ -17,14 +17,48 @@ My research focuses on the areas of **Machine Learning**, **Deep Learning**, **C
 ======
 Currently, I am looking for Postdoc and Industrial Research Collaboration in Deep learning and Machine learning.
 
-✴️: Skills :
+## Skills
 
-1. **Programming languages** : Python [NumPy, Pandas, Scikit-learn, Keras]
-2. **Databases**: My SQL,
-3. **Tools** : Streamlit , Jupyter Notebook, Google Collab, Pycaret
-4. **Visualization and Analytical Tools**: Matplotlib, Seaborn
-5. **Machine Learning Skills** - Data Preprocessing, Data Visualization , Model Validation and peformance, Regression, Classification, Neural network analysis
-6. **Computer Vision Skills** - Image Preprocessing, Image Visualization, image Classification 
+### Programming:
+- Python
+- NumPy
+- Pandas
+
+### ML/DL Frameworks:
+- Scikit-learn
+- Keras
+- PyCaret
+- TensorFlow
+- PyTorch
+
+### Machine Learning:
+- Classification
+- Clustering
+- Data Preprocessing
+
+### Deep Learning:
+- ANN
+- CNN
+
+### Computer Vision:
+- Image Processing
+- Filtering
+- Classification
+
+### Natural Language Processing:
+- Text Classification
+- Sentiment Analysis
+
+### Development Tools:
+- VSCode
+- Google Colab
+- LMS
+- GitHub
+- Jupyter
+
+### LMS Platforms:
+- Moodle
+
 
 🌍News
 ------
