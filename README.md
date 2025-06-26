@@ -4,6 +4,7 @@
 
 * [**purrlab**](https://purrlab.github.io/)
 * [**Robotic Learning for Curious People**](https://aos55.github.io/deltaq/posts/an-overview-of-robotic-learning/)
+* [**Shreyansh Singh**](https://shreyansh26.github.io/projects/)
 ###
 
 <div align="left">
