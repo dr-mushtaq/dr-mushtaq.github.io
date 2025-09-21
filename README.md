@@ -6,6 +6,7 @@
 * [**Robotic Learning for Curious People**](https://aos55.github.io/deltaq/posts/an-overview-of-robotic-learning/)
 * [**Shreyansh Singh**](https://shreyansh26.github.io/projects/)
 * [**hodausama.**](https://hodausama.github.io/posts/descriptive-vs-inferential/)
+* [**UVA Deep Learning Course**](https://uvadlc.github.io/)
 ###
 
 <div align="left">
