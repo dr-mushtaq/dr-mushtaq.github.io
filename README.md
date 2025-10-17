@@ -7,6 +7,7 @@
 * [**Shreyansh Singh**](https://shreyansh26.github.io/projects/)
 * [**hodausama.**](https://hodausama.github.io/posts/descriptive-vs-inferential/)
 * [**UVA Deep Learning Course**](https://uvadlc.github.io/)
+* [**Causal Inference Studies**](https://emiliomaddalena.github.io/causal-inference-studies/why_causality_matters/)
 ###
 
 <div align="left">
