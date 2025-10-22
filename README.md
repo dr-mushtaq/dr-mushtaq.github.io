@@ -8,6 +8,7 @@
 * [**hodausama.**](https://hodausama.github.io/posts/descriptive-vs-inferential/)
 * [**UVA Deep Learning Course**](https://uvadlc.github.io/)
 * [**Causal Inference Studies**](https://emiliomaddalena.github.io/causal-inference-studies/why_causality_matters/)
+* [**sofiabelen**](https://sofiabelen.github.io/)
 ###
 
 <div align="left">
